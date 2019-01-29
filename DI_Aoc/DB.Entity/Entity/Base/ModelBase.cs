@@ -7,7 +7,7 @@ namespace DB.Entity.Model.Base
     public interface IModel<TPrimaryKey>//约束
     {
         TPrimaryKey ID { get; set; }
-    }
+    }     
 
     public class ModelBase : IModel<int>
     {
