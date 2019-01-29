@@ -1,0 +1,8 @@
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\bin\Debug\netcoreapp2.0\DBAccess.deps.json
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\bin\Debug\netcoreapp2.0\DBAccess.dll
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\bin\Debug\netcoreapp2.0\DBAccess.pdb
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\obj\Debug\netcoreapp2.0\DBAccess.csproj.CoreCompileInputs.cache
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\obj\Debug\netcoreapp2.0\DBAccess.AssemblyInfoInputs.cache
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\obj\Debug\netcoreapp2.0\DBAccess.AssemblyInfo.cs
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\obj\Debug\netcoreapp2.0\DBAccess.dll
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DBAccess\obj\Debug\netcoreapp2.0\DBAccess.pdb

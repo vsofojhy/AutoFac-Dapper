@@ -1,0 +1,12 @@
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.csprojAssemblyReference.cache
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.csproj.CoreCompileInputs.cache
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.AssemblyInfoInputs.cache
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.AssemblyInfo.cs
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\bin\Debug\netcoreapp2.0\DB.Entity.deps.json
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\bin\Debug\netcoreapp2.0\DB.Entity.dll
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\bin\Debug\netcoreapp2.0\DB.Entity.pdb
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\bin\Debug\netcoreapp2.0\DBAccess.dll
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\bin\Debug\netcoreapp2.0\DBAccess.pdb
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.csproj.CopyComplete
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.dll
+F:\MyProject\框架\ConsoleApp1\DI_Aoc\DB.Entity\obj\Debug\netcoreapp2.0\DB.Entity.pdb

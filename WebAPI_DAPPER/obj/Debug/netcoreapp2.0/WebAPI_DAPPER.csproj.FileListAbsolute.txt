@@ -1,0 +1,17 @@
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\WebAPI_DAPPER.dll.config
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\WebAPI_DAPPER.deps.json
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\WebAPI_DAPPER.runtimeconfig.json
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\WebAPI_DAPPER.runtimeconfig.dev.json
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\WebAPI_DAPPER.dll
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\WebAPI_DAPPER.pdb
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\DBAccess.dll
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\DBAccess.pdb
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.csprojAssemblyReference.cache
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.csproj.CoreCompileInputs.cache
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.AssemblyInfoInputs.cache
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.AssemblyInfo.cs
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.csproj.CopyComplete
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.dll
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\obj\Debug\netcoreapp2.0\WebAPI_DAPPER.pdb
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\DB.Entity.dll
+F:\MyProject\框架\ConsoleApp1\WebAPI_DAPPER\bin\Debug\netcoreapp2.0\DB.Entity.pdb
