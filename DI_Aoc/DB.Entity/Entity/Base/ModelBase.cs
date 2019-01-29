@@ -8,7 +8,9 @@ namespace DB.Entity.Model.Base
     {
         TPrimaryKey ID { get; set; }
     }     
+  
 
+  
     public class ModelBase : IModel<int>
     {
         public int ID { get; set; }
